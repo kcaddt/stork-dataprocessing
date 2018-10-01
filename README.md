@@ -4,7 +4,7 @@
 Spark needs to be installed (as `preprocess.py` is written using spark python API).
 The script runs in a matter of seconds on a (relatively) recent computer.
 
-It might seems like an overkill to use spark on small dataset but I am more familiar with spark rather than pandas these days. It also guaranties scalability if the inputs data gets bigger (even if one might argue against it).
+It might seems like an overkill to use spark on small dataset but I am more familiar with spark rather  pandas  these days. It also guaranties scalability if the inputs data gets bigger (even if one might argue against it).
 
 ##### Informations  
  I  added `iso-3166.csv` to get the matching table for the countries
